@@ -2,6 +2,7 @@
 
 This is my personal website showcasing my work as a data professional. This portfolio is mainly built using **React** and **MUI**.
 
+[**View Live Portfolio (DEMO)**](https://deepakdulal.com)
 ---
 
 ## Getting Started
